@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ethan Astorga</h1>
 <h3 align="center">👋 Hi there! I'm a passionate tech enthusiast diving deep into Python, Machine Learning, and Artificial Intelligence. from Chile</h3>
 
+![Final del curso de IA y BigData por Samsung e innovacien](samsung-101.jpg)
+
 - 🔭 I’m currently working on [DetectVoice](https://github.com/ethan1213/ProyectoIA_Colab)
 
 - 🌱 I’m currently learning **Advanced techniques in Machine Learning and Artificial Intelligence, focusing on deep learning architectures like CNNs and RNNs.AWS Cloud Computing, including VPC design, deployment strategies, and scalable infrastructure for AI models.**
